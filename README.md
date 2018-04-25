@@ -20,7 +20,7 @@ mvn test
 This game is played from the terminal
 
 ```
-java -jar tenisgame.jar Nadal Federer
+java -jar tennisgame.jar Nadal Federer
 ```
 
 Then, step by step, tell who wins the point:

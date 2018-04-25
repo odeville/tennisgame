@@ -8,7 +8,7 @@
   <artifactId>tennisgame</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>tenisgame</name>
+  <name>tennisgame</name>
   <url>https://github.com/odeville/tennisgame</url>
 
   <properties>
@@ -51,7 +51,7 @@
           <configuration>
 				<archive>
 					<manifest>
-						<mainClass>odeville.tenisgame.App</mainClass>
+						<mainClass>odeville.tennisgame.App</mainClass>
 					</manifest>
 				</archive>
 			</configuration>

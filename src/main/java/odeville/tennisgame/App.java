@@ -1,11 +1,11 @@
-package odeville.tenisgame;
+package odeville.tennisgame;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-import odeville.tenisgame.model.Player;
-import odeville.tenisgame.model.Scoreboard;
-import odeville.tenisgame.model.TennisGame;
+import odeville.tennisgame.model.Player;
+import odeville.tennisgame.model.Scoreboard;
+import odeville.tennisgame.model.TennisGame;
 
 public class App {
 

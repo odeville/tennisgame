@@ -1,4 +1,4 @@
-package odeville.tenisgame.model;
+package odeville.tennisgame.model;
 
 import java.io.IOException;
 import java.util.Properties;

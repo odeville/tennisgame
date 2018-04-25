@@ -1,9 +1,9 @@
-package odeville.tenisgame;
+package odeville.tennisgame;
 
 import static org.junit.Assert.assertTrue;
-import odeville.tenisgame.model.Player;
-import odeville.tenisgame.model.Scoreboard;
-import odeville.tenisgame.model.TennisGame;
+import odeville.tennisgame.model.Player;
+import odeville.tennisgame.model.Scoreboard;
+import odeville.tennisgame.model.TennisGame;
 
 import org.junit.Test;
 
